@@ -1,0 +1,28 @@
+---
+import { getCollection, getEntries } from 'astro:content';
+
+export async function getStaticPaths() {
+  const bookEntries = await getCollection('books');
+
+  return bookEntries.map(entry => ({
+    params: { book: entry.id }, props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { book } = Astro.params;
+// Query chapters based on book param
+const chapters = await getCollection('chapters', ({ id }) => {
+  return id.startsWith(book);
+});
+console.log(chapters);
+---
+<h1>{entry.data.title}</h1>
+<p>{entry.data.author}</p>
+<p>{book}</p>
+<h2>Chapters</h2>
+<ul>
+  {chapters.map(chapter => (
+    <li key={chapter.id}>{chapter.data.title}</li>
+  ))}
+</ul>
