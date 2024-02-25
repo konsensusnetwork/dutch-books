@@ -1,20 +1,10 @@
 ---
 import Layout from '@layouts/BaseLayout.astro'
-import BookCard from '@components/BookCard.astro'
-
-import { getCollection } from 'astro:content';
-
-const books = await getCollection('books');
 
 
 ---
 
 <Layout>
-	<h1>Bitcoin Boeken</h1>
-	<p>
-		Lees ze gratis
-	</p>
-
-	{books.map((book) => <BookCard book={book} />)}
+	<h1>Spaartechnologie</h1>
 
 </Layout>

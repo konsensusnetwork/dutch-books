@@ -13,24 +13,6 @@ const articles = defineCollection({
   }),
 });
 
-const books = defineCollection({
-  type: 'data',
-  schema: z.object({
-    title: z.string(),
-    author: z.string(),
-    subtitle: z.string().optional(),
-  }),
-});
-
-const chapters = defineCollection({ 
-  type: 'content',
-  schema: z.object({
-    title: z.string(),
-  }),
-});
-
 export const collections = {
   'articles': articles,
-  'chapters': chapters,
-  'books': books,
 };
