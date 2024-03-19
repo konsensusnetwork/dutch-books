@@ -39,35 +39,6 @@ De centrale bank die de geldhoeveelheid doet toenemen, doet dit op een verdoken 
 Ons huidig monetair systeem van fiat-geld is zeer ver verwijderd van het geld dat oorspronkelijk op de vrije-markt tot stand kwam. De uitvinding van Satoshi Nakamoto geeft ons de mogelijkheid om dit onevenwicht te herstellen. Als geld een abstractie is voor onze tijd dan geven we op twee manieren onze tijd terug af aan de maatschappij. Aan de ene kant betalen we belastingen op de vruchten van onze arbeid. Aan de andere kant betalen we een inflatiebelasting. Ons huidig systeem van inflationair fiat-geld is namelijk genoodzaakt om de geldhoeveelheid altijd te laten toenemen. Een stijging van de geldhoeveelheid (groter dan de economische groei of productiviteitsstijging) leidt tot stijgende prijzen. Wanneer prijzen in de economie stijgen wordt onze koopkracht aangetast (en meestal voordat onze lonen aanpassen).
 
 Fiat-geld maakt het aanhouden van cash-balansen onaantrekkelijk. Dit is een bewuste strategie. Doordat geld zijn waarde verliest doorheen de tijd (door de aanhoudende stijging van de geldhoeveelheid en het Cantillon effect) worden we aangemoedigd om ons geld zo snel mogelijk om te zetten in investeringen of consumptie. De Keynesiaanse economische stroming redeneert foutief dat dit leidt tot economische groei. In een voorgaand artikel toon ik aan waarom dit niet klopt.
-[
 
-De rol van tijd in het productieproces
-
-In dit artikel bespreken we wat de rol van Tijd is in het productieproces. Wat is er fout met ons huidig economisch systeem en waarom werken de Keynesiaanse recepten niet?
-
-![](
-
-![](https://images.unsplash.com/photo-1535735425560-eac21f096836?ixlib&#x3D;rb-1.2.1&amp;q&#x3D;80&amp;fm&#x3D;jpg&amp;crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;w&#x3D;2000&amp;fit&#x3D;max&amp;ixid&#x3D;eyJhcHBfaWQiOjExNzczfQ)
-](
 Het beleid van vandaag leidt niet tot economische groei. Het leidt tot stagnatie en uitputting van onze grondstoffen en middelen. Het is de oorzaak van korte-termijn denken en een ongebreideld consumentisme. Het creeërt slechte investeringen die de oorzaak zijn van 'booms en busts' en die wanneer ze barsten telkens weer een reden zijn voor opnieuw meer geldcreatie door centrale banken.
 
-Meer lezen?
-[
-
-How Inflation Picks Your Pocket | Dan Sanchez
-
-Control over money is the state’s back-door key to the storehouse of society.
-
-![](https://mises.org/sites/all/themes/bootsass/favicon.ico)Mises InstituteDan Sanchez
-
-![](https://cdn.mises.org/styles/social_media_1200_x_1200/s3/static-page/img/6752.jpg?itok&#x3D;FnHSiW-i)
-](https://mises.org/library/how-inflation-picks-your-pocket)[
-
-How Central Banking Increased Inequality | Louis Rouanet
-
-Although today high levels of inequality in the United States remain a pressing concern for a large swath of the population, monetary policy and credit expansion are rarely mentioned as a likely source of rising wealth and income inequality.
-
-![](https://mises.org/sites/all/themes/bootsass/favicon.ico)Mises InstituteLouis Rouanet
-
-![](https://cdn.mises.org/styles/social_media_1200_x_1200/s3/static-page/img/1422847855_a0b53f1582_z.jpg?itok&#x3D;c771arnk)
-](https://mises.org/library/how-central-banking-increased-inequality)

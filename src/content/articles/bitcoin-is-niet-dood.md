@@ -8,11 +8,9 @@ tags:
 excerpt: In tegenstelling tot wat de experten al sinds 2018 beweren, is Bitcoin springlevend. Bekende namen uit Wall Street maken hun allocatie in Bitcoin bekend.
 ---
 
-De prijs van Bitcoin is de voorbije weken op kousenvoeten gestegen tot niveau's die doen terugdenken aan eind 2017. Voorzichtig klopt de digitale munt weer op de deur van het wereldwijd bewustzijn. De main-stream media pikt [voorzichtig](https://www.tijd.be/markten-live/nieuws/algemeen/bitcoin-snuffelt-opnieuw-aan-record/10266056) én [minder voorzichtig](https://www.hln.be/geld/het-goud-van-de-21ste-eeuw-citibank-verwacht-dat-koers-bitcoin-volgend-jaar-enorm-kan-stijgen~aca7c6cf/) het verhaal weer op. En dit terwijl zowat iedereen de munt na de bubbel in 2017 voor dood verklaard had. 
+De prijs van Bitcoin is de voorbije weken op kousenvoeten gestegen tot niveau's die doen terugdenken aan eind 2017. Voorzichtig klopt de digitale munt weer op de deur van het wereldwijd bewustzijn. De main-stream media pikt [voorzichtig](https://www.tijd.be/markten-live/nieuws/algemeen/bitcoin-snuffelt-opnieuw-aan-record/10266056) én [minder voorzichtig](https://www.hln.be/geld/het-goud-van-de-21ste-eeuw-citibank-verwacht-dat-koers-bitcoin-volgend-jaar-enorm-kan-stijgen~aca7c6cf/) het verhaal weer op. En dit terwijl zowat iedereen de munt na de bubbel in 2017 voor dood verklaard had.
 
 "Bestaat dat ding nu nog?" Jazeker.
-![]
-De koers van Bitcoin (op Bitstamp)
 
 De voorbije maanden waren er al redelijk wat bekende namen die zich publiek uitspraken over hun investering. Paul Tudor Jones, een investeerder met ware legende-status, [gaf verschillende keren aan te investeren in het digitale goud](https://www.cnbc.com/2020/10/22/-paul-tudor-jones-says-he-likes-bitcoin-even-more-now-rally-still-in-the-first-inning.html). Ook Stan Druckenmiller [sprak zijn waardering uit](https://www.btctimes.com/news/stan-druckenmiller-bitcoin-cnbc-interview).
 

@@ -10,7 +10,7 @@ excerpt: "De prijs van bitcoin verkent nieuwe hoogtes. De digitale munt worstelt
 
 *Dit artikel verscheen eerst op [start2bitcoin](https://start2bitcoin.com/nl/terugblik-2020-bitcoin/)*
 
-Ik geef toe dat dit een dooddoener is maar daar komt het wel op neer. Interessanter is om eens nader te kijken naar wie die nieuwe kopers in  de markt precies zijn. Doorheen 2020 kwamen al heel wat grote spelers  naar buiten met positieve geluiden over Bitcoin. 
+Ik geef toe dat dit een dooddoener is maar daar komt het wel op neer. Interessanter is om eens nader te kijken naar wie die nieuwe kopers in  de markt precies zijn. Doorheen 2020 kwamen al heel wat grote spelers  naar buiten met positieve geluiden over Bitcoin.
 
 Het lijkt erop dat de institutionele beleggers gearriveerd zijn.
 

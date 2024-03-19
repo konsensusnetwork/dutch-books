@@ -25,16 +25,6 @@ excerpt: In dit artikel bespreken we wat de rol van Tijd is in het productieproc
 *In dit artikel onderzoeken we de effecten van consumptie en besparingen op economische groei. Door rekening te houden met het concept van tijd in het productieproces van ondernemers komen we tot de conclusie dat niet consumptie maar besparingen de motor zijn van economische groei en vooruitgang.*
 
 *Dit artikel werd vertaald in Januari 2020.*
-[
-
-Keynesian Errors on Time and Demand
-
-The foundations for the prominent economic theory supporting leading policies worldwide for the last few decades was laid down by the mathematician John Maynard Keynes. The ideas he pushed and…
-
-![](https://cdn-images-1.medium.com/fit/c/152/152/1*8I-HPL0bfoIzGied-dzOvA.png)MediumBen Kaufman
-
-![](https://miro.medium.com/max/1200/1*SgzJikQfDNiHl8KWgcWM6w.jpeg)
-](https://medium.com/@ben_kaufman/keynesian-errors-on-time-and-demand-80eeae2c7110)
 ---
 
 # Introductie
